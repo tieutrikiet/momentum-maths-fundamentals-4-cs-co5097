@@ -1,21 +1,19 @@
 # ASSIGNMENT REPORT NOTEBOOK
 
-| Môn học | **Cơ sở Toán cho Khoa học Máy tính (Mathematics Fundamentals for Computer Science)** |
-| - | - |
-| Mã môn học | **CO5097** |
-| Giảng viên | **Thầy Nguyễn An Khương** |
-| Nhóm | **Optimization Momentum** |
-
+| Môn học    | **Cơ sở Toán cho Khoa học Máy tính (Mathematics Fundamentals for Computer Science)** |
+| ---------- | ------------------------------------------------------------------------------------ |
+| Mã môn học | **CO5097**                                                                           |
+| Giảng viên | **Thầy Nguyễn An Khương**                                                            |
+| Nhóm       | **Optimization Momentum**                                                            |
 
 #### Danh sách thành viên:
 
-| # | Họ và tên | MSHV |
-| - | - | - |
-| 1 | Lê Thái Bình | 2570081 |
-| 2 | Nguyễn Duy Bảo | 2570395 |
-| 3| Trần Thái Học | 2570426 |
-| 4 | Tiêu Trí Kiệt | 2570436 |
-
+| #   | Họ và tên     | MSHV    |
+| --- | ------------- | ------- |
+| 1   | Lê Thái Bình  | 2570081 |
+| 2   | Ngô Duy Bảo   | 2570395 |
+| 3   | Trần Thái Học | 2570426 |
+| 4   | Tiêu Trí Kiệt | 2570436 |
 
 #### Nội dung tham khảo:
 
